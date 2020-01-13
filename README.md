@@ -1,6 +1,6 @@
 # JavaScript Course Outline
 
-1. Introduction to JavaScript.
+## 1. Introduction to JavaScript.
 
 | Class | Description |
 | --- | --- |
@@ -10,7 +10,7 @@
 | 4 | What is ECMAScript (ES)? |
 | 5 | ES Versions. |
 
-1. Basic of JavaScript
+## 2. Basic of JavaScript
 
 | Class | Description |
 | --- | --- |
@@ -23,7 +23,7 @@
 | 12 | Explanations of Data Types |
 | 13 | JavaScript Input |
 
-1. Some semi Advance Topics
+## 3. Some semi Advance Topics
 
 | Class | Description |
 | --- | --- |
@@ -42,7 +42,7 @@
 | 26 | Regular Expressions Explanations and Uses |
 | 27 | This keyword, bind, use, apply |
 
-1. JS Object
+## 4. JS Object
 
 | Class | Description |
 | --- | --- |
@@ -57,7 +57,7 @@
 | 36 | RESTful API |
 | 37 | AJAX, fetch(), AXIOS |
 
-1. JS OOP
+## 5. JS OOP
 
 | Class | Description |
 | --- | --- |
@@ -65,7 +65,7 @@
 | 39 | Export and Import module |
 | 40 | TypeScript Basic |
 
-1. NodeJS
+## 6. NodeJS
 
 | Class | Description |
 | --- | --- |
