@@ -1,4 +1,5 @@
 # JavaScript Course Outline
+### Course Instructor: Md. Abdur Rahman
 
 ## 1. Introduction to JavaScript.
 
