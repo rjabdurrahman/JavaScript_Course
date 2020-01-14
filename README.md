@@ -50,35 +50,37 @@
 | 28 | What is object |
 | 29 | JS object declaration |
 | 30 | Object Operations ( Part – 1) |
-| 31 | JSON
+| 31 | JSON |
 | 32 | Why JSON? |
 | 33 | NoSQL |
 | 34 | DOM |
 | 35 | BOM |
 | 36 | RESTful API |
 | 37 | AJAX, fetch(), AXIOS |
+| 38 | JS Promise |
+| 39 | Async & Await |
 
 ## 5. JS OOP
 
 | Class | Description |
 | --- | --- |
-| 38 | JS Class |
-| 39 | Export and Import module |
-| 40 | TypeScript Basic |
+| 40 | JS Class |
+| 41 | Export and Import module |
+| 42 | TypeScript Basic |
 
 ## 6. NodeJS
 
 | Class | Description |
 | --- | --- |
-| 41 | What is NodeJS
-| 42 | Why Node JS?
-| 43 | Installing NodeJS environment
-| 44 | Writing First Node Code |
-| 45 | What is NPM
-| 46 | Why NPM
-| 47 | NPM Using (local, global, dev) |
-| 48 | ExpressJS
-| 49 | Why?
-| 50 | Routing
-| 51 | Request, Response |
-| 52 | MVC Model |
+| 43 | What is NodeJS
+| 44 | Why Node JS?
+| 45 | Installing NodeJS environment
+| 46 | Writing First Node Code |
+| 47 | What is NPM
+| 48 | Why NPM
+| 49 | NPM Using (local, global, dev) |
+| 50 | ExpressJS
+| 51 | Why?
+| 52 | Routing
+| 53 | Request, Response |
+| 54 | MVC Model |
