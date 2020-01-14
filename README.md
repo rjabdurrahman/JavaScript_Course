@@ -28,9 +28,9 @@
 
 | Class | Description |
 | --- | --- |
-| 14 | Scope, function |
+| 14 | Scope, function, hoisting |
 | 15 | If else |
-| 16 | Loops ( all ) |
+| 16 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
 | 17 | Strings |
 | 18 | String functions (Part – 1) |
 | 19 | String functions (Part – 2) |
