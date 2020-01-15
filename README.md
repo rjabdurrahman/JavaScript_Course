@@ -3,7 +3,7 @@
 
 ## 1. JS Introduction and Basics
 
-| Class | Description |
+| Topics | Description |
 | --- | --- |
 | 1 | JavaScript and It's Sectors |
 | 2 | Installing JS Codding Environment |
@@ -15,7 +15,7 @@
 
 ## 2. Some semi Advance Topics
 
-| Class | Description |
+| Topics | Description |
 | --- | --- |
 | 8 | Scope, function, hoisting |
 | 9 | If else |
