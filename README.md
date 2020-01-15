@@ -10,23 +10,24 @@
 | 3 | Writing First JS Code |
 | 4 | Some Awsome Tools for JS Practice |
 | 5 | Data Types and Explanations |
-| 6 | ECMAScript(ES) and ES Versions |
-| 7 | JS In Browser and I/O |
+| 6 | JS Learning Resources |
+| 7 | ECMAScript(ES) and ES Versions |
+| 8 | JS In Browser and I/O |
 
 ## 2. Some semi Advance Topics
 
 | Topics | Description |
 | --- | --- |
-| 8 | Scope, function, hoisting |
-| 9 | If else |
-| 10 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
-| 11 | Strings |
-| 12 | String functions (Part – 1) |
-| 13 | String functions (Part – 2) |
-| 14 | Array |
-| 15 | Array functions ( Part – 1) |
-| 16 | Array functions ( Part – 2) |
-| 17 | Set |
+| 9 | Scope, function, hoisting |
+| 10 | If else |
+| 11 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
+| 12 | Strings |
+| 13 | String functions (Part – 1) |
+| 14 | String functions (Part – 2) |
+| 15 | Array |
+| 16 | Array functions ( Part – 1) |
+| 17 | Array functions ( Part – 2) |
+| 18 | Set |
 | 20 | Map |
 | 21 | Regular Expressions Introduction |
 | 22 | Regular Expressions Explanations and Uses |
