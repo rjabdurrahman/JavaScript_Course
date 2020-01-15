@@ -13,26 +13,26 @@
 | 6 | ECMAScript(ES) and ES Versions |
 | 7 | JS In Browser and I/O |
 
-## 3. Some semi Advance Topics
+## 2. Some semi Advance Topics
 
 | Class | Description |
 | --- | --- |
-| 9 | Scope, function, hoisting |
-| 10 | If else |
-| 11 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
-| 13 | Strings |
-| 14 | String functions (Part – 1) |
-| 15 | String functions (Part – 2) |
-| 16 | Array |
-| 17 | Array functions ( Part – 1) |
-| 18 | Array functions ( Part – 2) |
-| 19 | Set |
+| 8 | Scope, function, hoisting |
+| 9 | If else |
+| 10 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
+| 11 | Strings |
+| 12 | String functions (Part – 1) |
+| 13 | String functions (Part – 2) |
+| 14 | Array |
+| 15 | Array functions ( Part – 1) |
+| 16 | Array functions ( Part – 2) |
+| 17 | Set |
 | 20 | Map |
 | 21 | Regular Expressions Introduction |
 | 22 | Regular Expressions Explanations and Uses |
 | 23 | This keyword, bind, use, apply |
 
-## 4. JS Object
+## 3. JS Object
 
 | Class | Description |
 | --- | --- |
@@ -49,7 +49,7 @@
 | 34 | JS Promise |
 | 35 | Async & Await |
 
-## 5. JS OOP
+## 4. JS OOP
 
 | Class | Description |
 | --- | --- |
@@ -57,7 +57,7 @@
 | 37 | Export and Import module |
 | 38 | TypeScript Basic |
 
-## 6. NodeJS
+## 5. NodeJS
 
 | Class | Description |
 | --- | --- |
