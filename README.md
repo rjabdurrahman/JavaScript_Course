@@ -18,9 +18,9 @@
 
 | Topics | Description |
 | --- | --- |
-| 9 | Scope, function, hoisting |
-| 10 | If else |
-| 11 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
+| 9 | If else, switch |
+| 10 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
+| 11 | Scope, function, hoisting |
 | 12 | Strings |
 | 13 | String functions (Part – 1) |
 | 14 | String functions (Part – 2) |
@@ -62,15 +62,15 @@
 
 | Class | Description |
 | --- | --- |
-| 39 | What is NodeJS
-| 40 | Why Node JS?
-| 41 | Installing NodeJS environment
+| 39 | What is NodeJS |
+| 40 | Why Node JS? |
+| 41 | Installing NodeJS environment |
 | 42 | Writing First Node Code |
-| 43 | What is NPM
-| 44 | Why NPM
+| 43 | What is NPM |
+| 44 | Why NPM |
 | 45 | NPM Using (local, global, dev) |
-| 46 | ExpressJS
-| 47 | Why?
-| 48 | Routing
+| 46 | ExpressJS |
+| 47 | Why? |
+| 48 | Routing |
 | 49 | Request, Response |
 | 50 | MVC Model |
