@@ -18,16 +18,17 @@
 
 | Topics | Description |
 | --- | --- |
-| 9 | If else, switch |
-| 10 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
-| 11 | Scope, function, hoisting |
-| 12 | Strings |
-| 13 | String functions (Part – 1) |
-| 14 | String functions (Part – 2) |
-| 15 | Array |
-| 16 | Array functions ( Part – 1) |
-| 17 | Array functions ( Part – 2) |
-| 18 | Set |
+| 9 | Conditional Statements and Operators, logical operatiors |
+| 10 | Logical operatiors |
+| 11 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
+| 12 | Scope, function, hoisting |
+| 13 | Strings |
+| 14 | String functions (Part – 1) |
+| 15 | String functions (Part – 2) |
+| 16 | Array |
+| 17 | Array functions ( Part – 1) |
+| 18 | Array functions ( Part – 2) |
+| 19 | Set |
 | 20 | Map |
 | 21 | Regular Expressions Introduction |
 | 22 | Regular Expressions Explanations and Uses |

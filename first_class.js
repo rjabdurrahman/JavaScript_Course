@@ -56,5 +56,8 @@ Object */
 // const max = 50;
 // let min = 1;
 // console.log(s, name, max, min)
+// console.log(typeof data)
+// var x = null;
+// console.log(typeof x)
 
 

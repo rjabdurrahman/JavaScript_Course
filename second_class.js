@@ -1,3 +1,3 @@
-let a = prompt('Input A:');
-let b = prompt('Input B:');
-console.log(a + b)
+var a = prompt('Input A:')
+var b = prompt('Input B:')
+console.log(parseInt(a) + parseInt(b))
