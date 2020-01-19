@@ -18,38 +18,40 @@
 
 | Topics | Description |
 | --- | --- |
-| 9 | Conditional Statements and Operators, logical operatiors |
-| 10 | Logical operatiors |
-| 11 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
-| 12 | Scope, function, hoisting |
-| 13 | Strings |
-| 14 | String functions (Part – 1) |
-| 15 | String functions (Part – 2) |
-| 16 | Array |
-| 17 | Array functions ( Part – 1) |
-| 18 | Array functions ( Part – 2) |
-| 19 | Set |
-| 20 | Map |
-| 21 | Regular Expressions Introduction |
-| 22 | Regular Expressions Explanations and Uses |
-| 23 | This keyword, bind, use, apply |
+| 9 | Boolean Data and Boolean Variable |
+| 10 | Truthy and Falsy Values |
+| 11 | Comparision and Logical Operators |
+| 12 | Conditional Statements and Operators |
+| 13 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
+| 14 | Scope, function, hoisting |
+| 15 | Strings |
+| 16 | String functions (Part – 1) |
+| 17 | String functions (Part – 2) |
+| 18 | Array |
+| 19 | Array functions ( Part – 1) |
+| 20 | Array functions ( Part – 2) |
+| 21 | Set |
+| 22 | Map |
+| 23 | Regular Expressions Introduction |
+| 24 | Regular Expressions Explanations and Uses |
+| 25 | This keyword, bind, use, apply |
 
 ## 3. JS Object
 
 | Class | Description |
 | --- | --- |
-| 24 | What is object |
-| 25 | JS object declaration |
-| 26 | Object Operations ( Part – 1) |
-| 27 | JSON |
-| 28 | Why JSON? |
-| 29 | NoSQL |
-| 30 | DOM |
-| 31 | BOM |
-| 32 | RESTful API |
-| 33 | AJAX, fetch(), AXIOS |
-| 34 | JS Promise |
-| 35 | Async & Await |
+| 26 | What is object |
+| 27 | JS object declaration |
+| 28 | Object Operations ( Part – 1) |
+| 29 | JSON |
+| 30 | Why JSON? |
+| 31 | NoSQL |
+| 32 | DOM |
+| 33 | BOM |
+| 34 | RESTful API |
+| 35 | AJAX, fetch(), AXIOS |
+| 36 | JS Promise |
+| 37 | Async & Await |
 
 ## 4. JS OOP
 
