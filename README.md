@@ -23,10 +23,10 @@
 | 11 | Comparision and Logical Operators |
 | 12 | Conditional Statements and Operators |
 | 13 | Loops ( for, while, do...while, for...in, for...of, forEach ) |
-| 14 | Scope, function, hoisting |
-| 15 | Strings |
-| 16 | String functions (Part – 1) |
-| 17 | String functions (Part – 2) |
+| 14 | Functions |
+| 15 | Scopes |
+| 16 | Strings |
+| 17 | String functions |
 | 18 | Array |
 | 19 | Array functions ( Part – 1) |
 | 20 | Array functions ( Part – 2) |

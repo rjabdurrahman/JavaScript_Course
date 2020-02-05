@@ -1,38 +1,23 @@
-/* JS Functios */
-
-/* Function Declaration */
-function functionName () {
-  // body
-  // return value
+/* Scope */
+// Local Scope and Variable
+// Global Scope Variable
+// var sum = 0
+// function add(a, b) {
+//   sum = a + b
+//   console.log('Sum is:', sum);
+// }
+// console.log(sum)
+// Block Scope Variable
+var a = 11
+if(a > 10) {
+  let isGreater = false
+  isGreater = true
+  const b = 15
+  if(isGreater && b === 15) {
+    console.log('A is Greater')
+    console.log('B is also okey')
+  }
 }
-// Named Function
-function printHi () {
-  console.log('Hi')
-}
-printHi()
-printHi()
-// Anonymous Function
-var hello = function () {
-  console.log('Hello')
-}
-hello()
-// Arrow Function
-var helloArrow = () => {
-  console.log('Hi Arrow ')
-}
-helloArrow()
-/* Function Parameters */
-var add = (a, b) => {
-  console.log('Addition is:', a + b)
-}
-add(2, 54)
-var multi = function (a, b) {
-  console.log(a * b)
-}
-multi(5, 12)
-// Callback Function
-function Mathmatics (n1, n2, callback) {
-  callback(n1, n2)
-}
-Mathmatics(12, 5, multi)
-/* Functions Returning Value */
+let isGreater = 10
+console.log(b)
+/* var, let, const */
