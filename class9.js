@@ -1,12 +1,12 @@
 /* Scope */
 // Local Scope and Variable
 // Global Scope Variable
-// var sum = 0
-// function add(a, b) {
-//   sum = a + b
-//   console.log('Sum is:', sum);
-// }
-// console.log(sum)
+var sum = 0
+function add(a, b) {
+  sum = a + b
+  console.log('Sum is:', sum);
+}
+console.log(sum)
 // Block Scope Variable
 var a = 11
 if(a > 10) {

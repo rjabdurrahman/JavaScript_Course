@@ -1,14 +1,28 @@
-/* JavaScript String */
+/* String Declaration */
+// Single Quote
 var a = 'Hunny Coders'
-var b = 'Learn Something New'
-console.log(a, b)
-console.log(a + ' ' + b)
-var line = `We are the Hunny Coders team and 
-            we want to do something new`
+console.log(a)
+// Double Quote
+var b = "Learn Something new course"
+console.log(b)
+// new String
+var c = new String('New String')
+console.log(c)
+// Template Literal
+var line = `Bangladesh is our homeland and 
+It is wonderful country`
 console.log(line)
 
-var name = 'Abdur Rahman'
-var title = 'Computer Programmer'
-console.log('Hello ' + name)
-console.log('Mr. ' + name + ', he is a ' + title)
-console.log(`Mr. ${name}, he is a ${title}`)
+// Escape notation
+// console.log('We are "Hunny Coders" Group')
+// console.log("We are 'Hunny Coders' Group")
+// console.log("We are \"Hunny Coders\" Group")
+console.log('We are \nHunny Coders\tGroup')
+// String Concatanation
+console.log('Hunny' + ' Best ' + 'Codders')
+// String Variable Embadding
+var name = "Abdur Rahman"
+var title = 'content creator'
+console.log('Hello ' + '\'' + name + '\'')
+var newLine =  `Hello ${name} - who is a ${title}`
+console.log(newLine)
