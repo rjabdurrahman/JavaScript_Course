@@ -26,3 +26,4 @@ var title = 'content creator'
 console.log('Hello ' + '\'' + name + '\'')
 var newLine =  `Hello ${name} - who is a ${title}`
 console.log(newLine)
+console.log(data.name);
