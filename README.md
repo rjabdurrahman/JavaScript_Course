@@ -27,36 +27,29 @@
 | 15 | Scopes |
 | 16 | Strings |
 | 17 | String functions |
-| 18 | Array |
-| 19 | Array functions ( Part – 1) |
-| 20 | Array functions ( Part – 2) |
-| 21 | Set |
-| 22 | Map |
-| 23 | Regular Expressions Introduction |
-| 24 | Regular Expressions Explanations and Uses |
-| 25 | This keyword, bind, use, apply |
-
-## 3. JS Object
-
-| Class | Description |
-| --- | --- |
-| 26 | What is object |
-| 27 | JS object declaration |
-| 28 | Object Operations ( Part – 1) |
+| 18 | Object |
+| 19 | Array |
+| 20 | Array functions |
+| 28 | Object Operations |
 | 29 | JSON |
-| 30 | Why JSON? |
-| 31 | NoSQL |
-| 32 | DOM |
-| 33 | BOM |
-| 34 | RESTful API |
-| 35 | AJAX, fetch(), AXIOS |
-| 36 | JS Promise |
-| 37 | Async & Await |
+| 30 | NoSQL |
+| 31 | RESTful API |
+| 32 | Set |
+| 33 | Map |
+| 34 | Regular Expressions Introduction |
+| 35 | Regular Expressions Explanations and Uses |
+| 36 | This keyword, bind, use, apply |
+| 37 | AJAX, fetch(), AXIOS |
+| 38 | JS Promise |
+| 39 | Async & Await |
+| 40 | DOM |
+| 41 | BOM |
 
-## 4. JS OOP
+## 3. JS OOP
 
 | Class | Description |
 | --- | --- |
+| 33 | ES6 Additions |
 | 36 | JS Class |
 | 37 | Export and Import module |
 | 38 | TypeScript Basic |
