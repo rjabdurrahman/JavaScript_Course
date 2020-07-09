@@ -1,1 +1,26 @@
-javascript, object, js bangla tutorial, javascript tutorial, javascript objects, javascript tutorial for beginners, javascript object, object oriented javascript, objects in javascript, javascript es6, what is a javascript object, javascript lessons, learn javascript, freezing a javascript object, javascript tutorials, what are javascript objects, how to create a javascript object, javascript objects explained, javascript tutorial for beginners, javascript tutorial, javascript tutorials, programming, object oriented programming, es6 classes, es6, javascript prototypes, oop, oop js, object oriented javascript, javascript oop, javascript, javascript object constructor, javascript object methods, javascript object properties, javascript object array, javascript object prototype, javascript object keys, javascript object assign, javascript object to json, hunny coders
+/* Object Methods */
+var person = {
+  name: 'Abdur Rahman',
+  age: 21
+}
+// hasOwnProperty()
+console.log(person.hasOwnProperty('name'))
+console.log(person.hasOwnProperty('age'))
+console.log(person.hasOwnProperty('skill'))
+
+// Object.keys()
+console.log(Object.keys(person))
+// Object.values()
+console.log(Object.values(person))
+// Object.entries()
+console.log(Object.entries(person))
+// Object.assign()
+console.log(Object.assign(person, { status: 'active' }))
+// Object.defineProperty()
+// Object.defineProperties()
+// Object.preventExtension()
+// Object.isExtensible()
+// Object.seal()
+// Object.isSealed()
+// Object.freeze()
+// Object.isFrozen()
