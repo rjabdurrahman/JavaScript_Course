@@ -11,6 +11,7 @@
 // console.log(stNames)
 // find
 // findIndex
+// filter
 // sort
 // reduce
 // some
